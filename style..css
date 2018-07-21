@@ -1,0 +1,61 @@
+.navbar
+{
+	background-color: #128C7E !important;
+   
+
+}
+
+
+.mainfontcolor
+{
+	color: white !important;
+}
+
+.icon
+{
+	width: 20px;
+	height: 20px;
+	color: white !important;
+}
+
+#chat
+{
+	color: black;
+	font-size: 18px;
+}
+
+.check
+{
+	height: 17px;
+	width: 15px;
+}
+
+.chat
+{
+	background-color: #ECE5DD;
+}
+
+
+.pp
+{
+	height: 200px;
+	width: 200px;
+}
+
+.img{
+  max-width:180px;
+}
+.input[type=file]{
+padding:10px;
+background:#2d2d2d;}
+
+.outmsg
+{
+	background-color: #DCF8C6;
+	
+}
+
+.incomingmsg
+{
+	background-color: #FFFFFF;
+
